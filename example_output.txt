@@ -1,0 +1,15 @@
+Amount of vertices:	9
+NO LINK:		14
+1 handshake:		8
+2 handshakes:		5
+3 handshakes:		4
+4 handshakes:		3
+5 handshakes:		2
+6 handshakes:		0
+7 handshakes:		0
+8 handshakes:		0
+9 handshakes:		0
+10 handshakes:		0
+11 handshakes:		0
+12 handshakes:		0
+Too many handshakes:	0

@@ -1,0 +1,15 @@
+Amount of vertices:	213
+NO LINK:		422
+1 handshake:		12174
+2 handshakes:		9801
+3 handshakes:		181
+4 handshakes:		0
+5 handshakes:		0
+6 handshakes:		0
+7 handshakes:		0
+8 handshakes:		0
+9 handshakes:		0
+10 handshakes:		0
+11 handshakes:		0
+12 handshakes:		0
+Too many handshakes:	0
